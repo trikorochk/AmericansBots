@@ -33,4 +33,4 @@ async def summa(ctx, biber=0,  dolik=0):
     await ctx.send(biber+dolik)
 
 
-bot.run("MTE5NDMyOTQ4NzIwNzMxMzQ4OQ.GGHfmn.ERzjxKipUoIDlYBcILFOJX9T80G_DiDRjDsi3E")
+bot.run("")
